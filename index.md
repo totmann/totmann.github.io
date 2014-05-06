@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wir Sind Helden!
+title:
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
