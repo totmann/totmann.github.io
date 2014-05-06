@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Maximilian Heinrich
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
