@@ -14,4 +14,4 @@ Recently, I've spent a fair amount of money on some not-so-important things, now
 2. Seagate HDD 3TB:  789RMB
 3. Asus RT-AC66U Router:  870RMB
 
-####SUM:  4380RMB  
+##SUM:  4380RMB  
